@@ -21,7 +21,7 @@ This project is a Spring Boot application that manages student and course enroll
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/student-course-enrollment.git
+git clone [https://github.com/your-username/student-course-enrollment.git](https://github.com/RaysonKhoo/springBoot-practise.git)
 cd student-course-enrollment
 
 mvn clean install
